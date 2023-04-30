@@ -1,6 +1,6 @@
 ---
 title: "Finding Joy in the Company of Dogs: Magneto's Reflections"
-date: '2020-01-02'
+date: '2023-04-30'
 ---
 
 I have often been seen as a fearsome figure, a mutant with the power to control magnetic fields and reshape the world around me. But there is one thing that can always bring a smile to my face and calm my heart: dogs.

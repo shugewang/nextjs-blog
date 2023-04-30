@@ -1,6 +1,6 @@
 ---
 title: "Magneto's Musings on Pizza: A Culinary Marvel"
-date: '2020-01-01'
+date: '2023-04-29'
 ---
 
 I have seen many wonders and tasted many delicacies throughout my long life. But one dish that never ceases to amaze me is pizza.
